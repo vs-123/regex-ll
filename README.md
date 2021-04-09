@@ -2,10 +2,10 @@
 
 ![regex-ll](https://i.postimg.cc/59rJTCp4/icon.png)
 
-**Introduction:**
+## Introduction:
 **regex-ll** is a lined-language that was designed for testing your regular expressions on the fly.
 
-**Quick Start:**
+## Quick Start:
 Suppose, I want to test this regular expression `([0-9])` with substitutions.
 So I would create a file `main.ll` (the file name is arbitrary).
 In `main.ll`, I would write the following code.
