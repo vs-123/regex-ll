@@ -3,7 +3,7 @@
 ![regex-ll](https://raw.githubusercontent.com/vs-123/regex-ll/main/icon.png?token=AES3AMUGTHELZO6JW4YE5CDAOACOG)
 
 ## Introduction:
-**regex-ll** is a lined-language that was designed for testing your regular expressions on the fly.
+**regex-ll** is a lined-language that was designed for testing your regular expressions with ease.
 
 ## Quick Start:
 Suppose, I want to test this regular expression `([0-9])` with substitutions.
