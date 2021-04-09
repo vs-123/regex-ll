@@ -1,7 +1,6 @@
 # regex-ll
 
-![regex-ll](https://lh4.googleusercontent.com/voJzb6ii9_UfkytzFeeshQknB0DIchFfZSoluPgcziW93Xn9y_t-S3crnQJV7_SE2s_OEYWgjqbXM7goHU-u=w1920-h913 
- =200x200)
+![regex-ll](https://i.postimg.cc/59rJTCp4/icon.png)
 
 **Introduction:**
 **regex-ll** is a lined-language that was designed for testing your regular expressions on the fly.
