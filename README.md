@@ -1,6 +1,6 @@
 # regex-ll
 
-![regex-ll](https://i.postimg.cc/59rJTCp4/icon.png)
+![regex-ll](https://raw.githubusercontent.com/vs-123/regex-ll/main/icon.png?token=AES3AMUGTHELZO6JW4YE5CDAOACOG)
 
 ## Introduction:
 **regex-ll** is a lined-language that was designed for testing your regular expressions on the fly.
